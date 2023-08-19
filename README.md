@@ -36,5 +36,4 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 
     belajar baru
     combine pull request
-    *mencoba pull request melalui fork
     
